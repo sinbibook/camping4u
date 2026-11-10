@@ -1,1 +1,1 @@
-# camping4u
+# template-full-banner-wipe
