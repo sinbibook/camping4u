@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-11-10T03:06:20.600230001Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-11-10T03:09:58.095852691Z",
     "templateType": "full_banner_wipe",
     "propertyId": "01a13fdd-dbea-7dd8-833d-4875b452f39e",
     "homepageId": "01a1c33f-19a0-717c-a419-79fcd58514d5"
@@ -3252,7 +3252,53 @@
                 ],
                 "description": ""
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": "With Pet",
+                  "images": [
+                    {
+                      "id": "01a1c36f-095a-7421-81d2-963fbad295a2",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1c33f-19a0-717c-a419-79fcd58514d5/main_about/1794280196109-1z4dv8twl8.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6c5c1a4b-06f9-4e0a-98f1-39d073b636eb"
+                    }
+                  ],
+                  "blockId": "6c5c1a4b-06f9-4e0a-98f1-39d073b636eb",
+                  "description": "소중한 반려견과 함께하는 여행의 추억"
+                },
+                {
+                  "title": "Private BBQ",
+                  "images": [
+                    {
+                      "id": "01a1c36f-09a7-70ac-ad26-7f6fbb36e062",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1c33f-19a0-717c-a419-79fcd58514d5/main_about/1794280196098-035owefnis.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "9b561e56-95b6-45e9-8b67-3f66738fa4c4"
+                    }
+                  ],
+                  "blockId": "9b561e56-95b6-45e9-8b67-3f66738fa4c4",
+                  "description": "따뜻한 불멍과 맛있는 저녁"
+                },
+                {
+                  "title": "",
+                  "images": [
+                    {
+                      "id": "01a1c36f-096f-7928-a0e6-e1bebdcc2df6",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1c33f-19a0-717c-a419-79fcd58514d5/main_about/1794280196105-adg8s666yv.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "a5549e75-b251-4007-8bde-9375841f2dde"
+                    }
+                  ],
+                  "blockId": "a5549e75-b251-4007-8bde-9375841f2dde",
+                  "description": ""
+                }
+              ]
             }
           ]
         },
