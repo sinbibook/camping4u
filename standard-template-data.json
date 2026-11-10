@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-10T02:52:31.662455202Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-10T02:55:59.399908618Z",
     "templateType": "full_banner_wipe",
     "propertyId": "01a13fdd-dbea-7dd8-833d-4875b452f39e",
     "homepageId": "01a1c33f-19a0-717c-a419-79fcd58514d5"
@@ -3219,7 +3219,10 @@
             "family": "Cormorant"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#FFFFFF",
+          "secondary": "#6F8B88"
+        }
       },
       "property": {
         "name": "가평 캠핑포유 펜션&캠핑",
