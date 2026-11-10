@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-11-10T03:18:42.474028517Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-11-10T03:21:32.753107323Z",
     "templateType": "full_banner_wipe",
     "propertyId": "01a13fdd-dbea-7dd8-833d-4875b452f39e",
     "homepageId": "01a1c33f-19a0-717c-a419-79fcd58514d5"
@@ -3131,8 +3131,8 @@
                 "title": "오시는길",
                 "images": [
                   {
-                    "id": "01a1c35b-4760-7207-a896-8adeae9fa971",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1c33f-19a0-717c-a419-79fcd58514d5/directions_hero/1794278900812-3vurgqhb70.jpg",
+                    "id": "01a1c379-a19f-7d6c-84d4-8b9feb72810f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1c33f-19a0-717c-a419-79fcd58514d5/directions_hero/1794280890229-jkiym52q5d.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -3151,7 +3151,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "01a1c35b-465e-79bf-8a8c-bc7daa59df82",
@@ -3250,7 +3250,7 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": "가까이 흐르는 계곡과 계절마다 빛깔을 바꾸는 나무들을 바라보며\n일상의 걱정을 잠시 내려놓고 소중한 사람들과의\n느긋하고 편안한 휴식의 시간을 경험해 보세요."
               },
               "about": [
                 {
