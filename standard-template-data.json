@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-11-10T03:25:18.427001404Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-11-10T03:27:44.411128699Z",
     "templateType": "full_banner_wipe",
     "propertyId": "01a13fdd-dbea-7dd8-833d-4875b452f39e",
     "homepageId": "01a1c33f-19a0-717c-a419-79fcd58514d5"
@@ -3035,7 +3035,7 @@
                 "description": " "
               },
               "essence": {
-                "title": "",
+                "title": "A Slow Day in the Hills",
                 "images": [
                   {
                     "id": "01a1c36a-03c2-74eb-8a25-fc26a8b91894",
@@ -3064,7 +3064,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "창밖으로 보이는 산자락에 아침 햇살이 천천히 번집니다.\n바람이 드는 자리에 앉아, 모처럼 서두르지 않는 하루를 보내세요."
               },
               "gallery": {
                 "title": " SPECIAL",
